@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/CameraFollow.cs" />
+    <Compile Include="Assets/mouseFollow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
